@@ -1,0 +1,2 @@
+module HownicesHelper
+end
